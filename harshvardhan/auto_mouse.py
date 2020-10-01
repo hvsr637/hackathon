@@ -21,13 +21,5 @@ while i:
         print('Exception')
 
 
-# In[22]:
-
-
-pyautogui.size()
-
-
-# In[23]:
-
 
 pyautogui.moveTo(10, 10)
