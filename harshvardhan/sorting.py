@@ -1,3 +1,6 @@
+def sort(car_list):
+  #sorting it
+  return cars.sort()
 cars = ['Ford', 'BMW', 'Volvo']
-
-cars.sort()
+ans = sort(cars)
+print(ans)
