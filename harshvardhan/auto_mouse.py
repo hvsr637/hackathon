@@ -21,5 +21,5 @@ while i:
         print('Exception')
 
 
-
+# Moving the mouse
 pyautogui.moveTo(10, 10)
